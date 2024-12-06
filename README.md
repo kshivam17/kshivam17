@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kshivam17
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning DSA & ML
+- 🌱 I’m currently learning Data Science, Web Development, ML, GenAI, etc.
 - 💞️ I’m looking to collaborate on ML projects
-- 📫 How to reach me - Instagram: kshivam_17
+- 📫 How to reach me - Instagram: _kshivam17
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love existentialism and philosophical discussions
 
